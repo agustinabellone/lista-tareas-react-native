@@ -1,2 +1,0 @@
-# lista-tareas-react-native
-
